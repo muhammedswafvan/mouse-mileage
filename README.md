@@ -1,3 +1,4 @@
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/0abbf8b3-b068-4475-89e3-ca850c3a0d14" />
 # Mouse Mileage
 
 ## Hackathon demo quick start
