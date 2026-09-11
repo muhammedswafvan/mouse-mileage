@@ -275,6 +275,7 @@ There is no going back.
 ## 👨‍💻 Author
 
 **Muhammed Swafvan**
+
 **Faizan Luthyanvi**
 
 B.Sc. Computer Science  
